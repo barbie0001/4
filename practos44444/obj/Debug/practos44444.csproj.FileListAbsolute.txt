@@ -1,0 +1,7 @@
+D:\Microsoft VS Code\practos44444\practos44444\bin\Debug\practos44444.exe.config
+D:\Microsoft VS Code\practos44444\practos44444\bin\Debug\practos44444.exe
+D:\Microsoft VS Code\practos44444\practos44444\bin\Debug\practos44444.pdb
+D:\Microsoft VS Code\practos44444\practos44444\obj\Debug\practos44444.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\practos44444\practos44444\obj\Debug\practos44444.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\practos44444\practos44444\obj\Debug\practos44444.exe
+D:\Microsoft VS Code\practos44444\practos44444\obj\Debug\practos44444.pdb
